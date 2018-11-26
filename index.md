@@ -63,7 +63,7 @@ The main aim of this workshop is to discuss the problems of data difficulties, t
 <br><br>
 
 <center>
-[![](kssk.png)](https://kssk.pwr.edu.pl)
+<a href=https://kssk.pwr.edu.pl><img src="kssk.png"></a>
 </center>
 
 <!--
