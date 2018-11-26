@@ -2,6 +2,8 @@
 layout: post
 ---
 
+> The workshop on Classifier Learning from Difficult Data is organized during the [International Conference on Computational Science ICCS 2019](https://www.iccs-meeting.org/iccs2019/) in Faro, Algarve, Portugal.
+
 # About
 
 Nowadays many practical decision task require to build models on the basis of data which included serious difficulties, as imbalanced class distributions, high number of classes, high-dimensional feature, small or extremely high number of learning examples, limited access to ground truth, data incompleteness, or data in motion, to enumerate only a few. Such characteristics may strongly deteriorate the final model performances. Therefore, the proposition of the new learning methods which can combat the mentioned above difficulties should be the focus of intense research.
@@ -21,11 +23,20 @@ The main aim of this workshop is to discuss the problems of data difficulties, t
 
 # Key dates
 
-*To be announced.*
+| Milestone        | Date           |
+| ------------- |:-------------:|
+| Paper submission | 15 December 2018 |
+| Notification of acceptance of papers | 15 February 2019|
+| Camera-ready papers| 5 April 2019|
+| Author registration| 15 March – 5 April 2019|
+| Conference | 12-14 June 2019|
 
+
+<!--
 # Program
 
 *To be announced.*
+-->
 
 <!--
 | Tables        | Are           | Cool  |
