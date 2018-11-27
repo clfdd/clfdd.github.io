@@ -75,9 +75,16 @@ The main aim of this workshop is to discuss the problems of data difficulties, t
 
 # Organization commitee
 
-- Michał Woźniak, *Wroclaw University of Science and Technology, Poland*
-- Bartosz Krawczyk, *Virginia Commonwealth University, USA*
-- Paweł Ksieniewicz, *Wroclaw University of Science and Technology, Poland*
+{% assign sorted = (site.data.oc) %}
+{% for person in sorted %}
+<div class="pictureoc">
+  <img src="{{person.img}}.jpg">
+  <div>
+  {{ person.first }} {{person.last}}, <em>{{person.university}}, {{person.country}}</em>
+  </div>
+</div>
+<div class='cleaner'></div>
+{% endfor %}
 
 <br><br>
 

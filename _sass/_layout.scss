@@ -62,12 +62,13 @@
         }
     }
 
-    .picture {
-      min-height:200px
-    }
 
     .cleaner {
       clear:both;
+    }
+
+    .picture {
+      min-height:200px
     }
 
     .picture img {
@@ -80,6 +81,22 @@
       float:right;
       width: 75%;
       padding-left:5%;
+    }
+
+    .pictureoc {
+      min-height:100px
+    }
+
+    .pictureoc img {
+      border-radius: 50%;
+      width: 80px;
+      float: left;
+    }
+
+    .pictureoc div {
+      float:left;
+      padding-left:10px;
+      line-height: 80px;
     }
 
     .site-nav {
