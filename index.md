@@ -64,7 +64,8 @@ The main aim of this workshop is to discuss the problems of data difficulties, t
 # Program committee
 
 <ul>
-{% for person in site.data.pc %}
+{% assign sorted = (site.data.pc | sort: 'last') %}
+{% for person in sorted %}
 <li>
     {{ person.first }} {{person.last}}, <em>{{person.university}}, {{person.country}}</em>
 </li>
