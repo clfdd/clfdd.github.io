@@ -63,7 +63,13 @@ The main aim of this workshop is to discuss the problems of data difficulties, t
 
 # Program committee
 
-*To be announced.*
+<ul>
+{% for person in site.data.pc %}
+<li>
+    {{ person.first }} {{person.last}}, <em>{{person.university}}, {{person.country}}
+</li>
+{% endfor %}
+</ul>
 
 # Organization commitee
 
