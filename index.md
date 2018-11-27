@@ -66,10 +66,11 @@ The main aim of this workshop is to discuss the problems of data difficulties, t
 <ul>
 {% for person in site.data.pc %}
 <li>
-    {{ person.first }} {{person.last}}, <em>{{person.university}}, {{person.country}}
+    {{ person.first }} {{person.last}}, <em>{{person.university}}, {{person.country}}</em>
 </li>
 {% endfor %}
 </ul>
+
 
 # Organization commitee
 
