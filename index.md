@@ -2,7 +2,7 @@
 layout: post
 ---
 
-> The workshop on Classifier Learning from Difficult Data is organized during the [International Conference on Computational Science ICCS 2019](https://www.iccs-meeting.org/iccs2019/) in Faro, Algarve, Portugal.
+> The workshop on Classifier Learning from Difficult Data is organized during the [International Conference on Computational Science ICCS 2020](https://www.iccs-meeting.org/iccs2020/) in Amsterdam, The Netherlands.
 
 # About
 
