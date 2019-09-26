@@ -46,6 +46,7 @@ The main aim of this workshop is to discuss the problems of data difficulties, t
 | zebra stripes | are neat      |    $1 |
 -->
 
+<!--
 ## Keynote speaker
 
 <div class="picture">
@@ -59,7 +60,7 @@ The main aim of this workshop is to discuss the problems of data difficulties, t
 </div>
 
 <div class='cleaner'></div>
-
+-->
 
 # Program committee
 
