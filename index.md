@@ -25,11 +25,11 @@ The main aim of this workshop is to discuss the problems of data difficulties, t
 
 | Milestone        | Date           |
 | ------------- |:-------------:|
-| Paper submission | 15 February 2019 |
-| Notification of acceptance of papers | 15 March 2019|
-| Camera-ready papers| 5 April 2019|
-| Author registration| 15 March – 5 April 2019|
-| Conference | 12-14 June 2019|
+| Paper submission | 13 December 2019 |
+| Notification of acceptance of papers | 24 January 2020|
+| Camera-ready papers| 28 February 2020|
+| Author registration| 24 January – 28 February 2020|
+| Conference | 3-5 June 2020|
 
 
 <!--
