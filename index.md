@@ -13,10 +13,10 @@ The main aim of this workshop is to discuss the problems of data difficulties, t
 
 The joint sessions <em>“Classifier Learning from Difficult Data”</em> and <em>“Computational Methods for Emerging Problems in (dis-)Information Analysis </em>” will take place on June 4th, 2020. This event will be organized online using zoom.us (all technical details will be sent together with the final programme).
 
-After the session we would like to rank the presentation – we will ask participants for their opinion and we would like to award 3 of them (using the waiver refund money – I will send you names , paper ids, and emails of the awarded presenters after the session):
+<!--After the session we would like to rank the presentation – we will ask participants for their opinion and we would like to award 3 of them (using the waiver refund money – I will send you names , paper ids, and emails of the awarded presenters after the session):
 
 - Best presentation award – 100 EURO
-- 2x distinctions		75 EURO each
+- 2x distinctions		75 EURO each -->
 
 We enclose the schedule of the meeting – I will appreciate if you could place it in the ICCS webpage – it will be also visible on the workshops’ pages.
 
