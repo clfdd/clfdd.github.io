@@ -9,6 +9,58 @@ layout: post
 Nowadays many practical decision task require to build models on the basis of data which included serious difficulties, as imbalanced class distributions, high number of classes, high-dimensional feature, small or extremely high number of learning examples, limited access to ground truth, data incompleteness, or data in motion, to enumerate only a few. Such characteristics may strongly deteriorate the final model performances. Therefore, the proposition of the new learning methods which can combat the mentioned above difficulties should be the focus of intense research.
 The main aim of this workshop is to discuss the problems of data difficulties, to identify new issues, and to shape future directions for research.
 
+# Online meeting
+
+The joint sessions <em>“Classifier Learning from Difficult Data”</em> and <em>“Computational Methods for Emerging Problems in (dis-)Information Analysis </em>” will take place on June 4th, 2020. This event will be organized online using zoom.us (all technical details will be sent together with the final programme).
+
+After the session we would like to rank the presentation – we will ask participants for their opinion and we would like to award 3 of them (using the waiver refund money – I will send you names , paper ids, and emails of the awarded presenters after the session):
+
+- Best presentation award – 100 EURO
+- 2x distinctions		75 EURO each
+
+We enclose the schedule of the meeting – I will appreciate if you could place it in the ICCS webpage – it will be also visible on the workshops’ pages.
+
+Best regards and take care!
+
+Michał Choraś and Michał Woźniak
+
+
+# Meeting schedule
+
+The meeting schedule of CLD2 and DIS-A workshops is as follows
+
+
+| Time        | Event           |Paper ID|
+| ------------- |:-------------|---:|
+| 9:00 – 9:10 |	<strong>Invitation and opening <em>(Michał Choraś, Michał Woźniak)</em></strong> |
+|9:10 – 10:00 |	<strong>Keynote talk <em>(chair:  Prof. Michał Woźniak)</em></strong>|
+||<h4>Prof. Michal Choraś</h4><h3>Current challenges in ML/AI: security, explainability and fairness</h3>|
+|10:20-12:00| <strong>Session 1 <em>(chair: Prof. Olgierd Unold)</em></strong>|
+||Paweł Teisseyre, Jan Mielniczuk and Małgorzata Łazęcka<br> Different strategies of fitting logistic regression for positive and unlabelled data|97 |
+||Dariusz Sychel, Przemysław Klęsk and Aneta Bera<br> Branch-and-Bound Search for Training Cascades of Classifiers|132|
+||Mariusz Topolski<br> Application of the stochastic gradient method in the construction of the main components of PCA in the task diagnosis of multiple sclerosis in children|516|
+||Wojciech Wieczorek, Olgierd Unold, Łukasz Strąk and Arkadiusz Nowakowski<br> Grammatical Inference by Answer Set Programming|128|
+||Magda Friedjungová, Daniel Vašata, Maksym Balatsko and Marcel Jiřina<br> Missing Features Reconstruction Using a Wasserstein Generative Adversarial Imputation Network|192|
+|12:20-14:00| <strong>Session 2 <em>(chair: Dr. Paweł Ksieniewicz)</em></strong>|
+||Pawel Zyblewski and Michal Wozniak<br> Dynamic Classifier Selection for data with skewed class distribution using Imbalance Ratio and Euclidean distance|184|
+||Jan Brabec, Tomas Komarek, Vojtech Franc and Lukas Machlica<br> On Model Evaluation under Non-constant Class Imbalance|237|
+||Pawel Trajdos and Marek Kurzynski<br> A Correction Method of a Base Classifier Applied to Imbalanced Data Classification|347|
+||Paweł Ksieniewicz<br> Standard Decision Boundary in a support-domain of fuzzy classifier prediction for the task of imbalanced data classification|359|
+||Jakub Klikowski and Michal Wozniak<br> Employing One-class SVM Classifier Ensemble for Imbalanced Data Stream Classification|559|
+|14:20-16:00| <strong>Session 3 <em>(chair: Prof. Tomasz Andrysiak)</em></strong>
+||Paweł Ksieniewicz and Robert Burduk<br> Clustering and Weighted Scoring in Geometric Space Support Vector Machine Ensemble for Highly Imbalanced Data Classification|629|
+||Michał Żak and Michał Woźniak<br> Performance Analysis of Binarization Strategies for Multi-Class Imbalanced Data Classification|661|
+||Paweł Ksieniewicz, Róża Goścień, Mirosław Klinkowski and Krzysztof Walkowiak<br> Pattern recognition model to aid the optimization of Dynamic Spectrally-Spatially Flexible Optical Networks|639|
+||Tomasz Andrysiak and Łukasz Saganowski<br> Maintenance and Security System for PLC Railway LED Sign Communication Infrastructure|490|
+||Jakub Nowak, Taras Holotyak, Marcin Korytkowski, Rafal Scherer and Sviatsolav Voloshynovskiy<br> Behavioral Biometric User Authentication from URL Logs|522|
+|16:20-18:00| <strong>Session 4 <em>(chair: Prof. Michał Choraś)</em></strong>
+||Marek Pawlicki, Rafal Kozik and Witold Holubowicz<br> On the impact of network data balancing in cybersecurity applications|99|
+||Sebastian Kula, Michał Choraś, Rafał Kozik, Pawel Ksieniewicz and Michał Wozniak<br> Sentiment Analysis for Fake News Detection by Means of Neural Networks|362|
+||Roman Englert and Jörg Muschiol<br> Syntactic and Semantic Bias Detection and Countermeasures|25|
+||Amir Ebrahimi Fard, Majid Mohammadi and Bartel van de Walle<br> Detecting Rumours in Disasters: An Imbalanced Learning Approach|90|
+
+
+
 # Topics of interest
 
 - Learning from imbalanced data
