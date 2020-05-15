@@ -34,7 +34,7 @@ The meeting schedule of CLD2 and DIS-A workshops is as follows
 | ------------- |:-------------|---:|
 | 9:00 – 9:10 |	<strong>Invitation and opening <em>(Michał Choraś, Michał Woźniak)</em></strong> |
 |9:10 – 10:00 |	<strong>Keynote talk <em>(chair:  Prof. Michał Woźniak)</em></strong>|
-||<h4>Prof. Michal Choraś</h4><h3>Current challenges in ML/AI: security, explainability and fairness</h3>|
+||<strong>Prof. Michal Choraś<br>Current challenges in ML/AI: security, explainability and fairness</strong>|
 |10:20-12:00| <strong>Session 1 <em>(chair: Prof. Olgierd Unold)</em></strong>|
 ||Paweł Teisseyre, Jan Mielniczuk and Małgorzata Łazęcka<br> Different strategies of fitting logistic regression for positive and unlabelled data|97 |
 ||Dariusz Sychel, Przemysław Klęsk and Aneta Bera<br> Branch-and-Bound Search for Training Cascades of Classifiers|132|
