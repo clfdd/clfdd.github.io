@@ -18,7 +18,6 @@ The joint sessions <em>“Classifier Learning from Difficult Data”</em> and <e
 - Best presentation award – 100 EURO
 - 2x distinctions		75 EURO each -->
 
-We enclose the schedule of the meeting – I will appreciate if you could place it in the ICCS webpage – it will be also visible on the workshops’ pages.
 
 Best regards and take care!
 
