@@ -18,7 +18,7 @@ The joint sessions <em>“Classifier Learning from Difficult Data”</em> and <e
 - Best presentation award – 100 EURO
 - 2x distinctions		75 EURO each -->
 
-You can join via the following [link](https://pwr-edu.zoom.us/j/91255889567?pwd=K2c1Z0F4ZTA4b1JvZVgxZjlXRUVZdz09), or by using the *join a meeting* function and providing the following data:
+You can join via the following [hyperlink](https://pwr-edu.zoom.us/j/91255889567?pwd=K2c1Z0F4ZTA4b1JvZVgxZjlXRUVZdz09), or by using the *join a meeting* function and providing the following data:
 - Meeting ID: 912 5588 9567
 - Password: 480722
 
