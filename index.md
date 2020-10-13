@@ -2,22 +2,17 @@
 layout: post
 ---
 
-> The workshop on Classifier Learning from Difficult Data is organized during the [International Conference on Computational Science ICCS 2020](https://www.iccs-meeting.org/iccs2020/) in Amsterdam, The Netherlands.
+> The workshop on Classifier Learning from Difficult Data is organized during the [International Conference on Computational Science ICCS 2021](https://www.iccs-meeting.org/iccs2021/) in Kraków, Poland.
 
 # About
 
 Nowadays many practical decision task require to build models on the basis of data which included serious difficulties, as imbalanced class distributions, high number of classes, high-dimensional feature, small or extremely high number of learning examples, limited access to ground truth, data incompleteness, or data in motion, to enumerate only a few. Such characteristics may strongly deteriorate the final model performances. Therefore, the proposition of the new learning methods which can combat the mentioned above difficulties should be the focus of intense research.
 The main aim of this workshop is to discuss the problems of data difficulties, to identify new issues, and to shape future directions for research.
 
+<!--
 # Online meeting
 
 The joint sessions <em>“Classifier Learning from Difficult Data”</em> and <em>“Computational Methods for Emerging Problems in (dis-)Information Analysis </em>” will take place on June 4th, 2020. The CLD2 and DIS-A workshops will take place via the zoom.us platform. Joining will be possible 15 minutes before the start of the meeting, which is at 8:45 AM (GMT + 2).
-
-<!--After the session we would like to rank the presentation – we will ask participants for their opinion and we would like to award 3 of them (using the waiver refund money – I will send you names , paper ids, and emails of the awarded presenters after the session):
-
-- Best presentation award – 100 EURO
-- 2x distinctions		75 EURO each -->
-
 
 Best regards and take care!
 
@@ -58,7 +53,7 @@ The meeting schedule of CLD2 and DIS-A workshops is as follows
 ||Roman Englert and Jörg Muschiol<br> Syntactic and Semantic Bias Detection and Countermeasures|25|
 ||Amir Ebrahimi Fard, Majid Mohammadi and Bartel van de Walle<br> Detecting Rumours in Disasters: An Imbalanced Learning Approach|90|
 
-
+-->
 
 # Topics of interest
 
@@ -76,11 +71,13 @@ The meeting schedule of CLD2 and DIS-A workshops is as follows
 
 | Milestone        | Date           |
 | ------------- |:-------------:|
-| Paper submission | 13 December 2019 |
-| Notification of acceptance of papers | 24 January 2020|
-| Camera-ready papers| 28 February 2020|
-| Author registration| 24 January – 28 February 2020|
-| Conference | 3-5 June 2020|
+| Paper submission | 18 December 2020 |
+| Notification to authors | 29 January 2021 |
+| Camera-ready papers | 5 March 2021 |
+| Author registration | 29 January – 5 March 2021 |
+| Non-author early registration | 29 January – 23 April 2021 |
+| Non-author late registration | from 24 April 2021 |
+| Conference sessions | 16-18 June 2021 |
 
 
 <!--
