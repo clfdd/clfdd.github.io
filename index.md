@@ -94,9 +94,19 @@ The meeting schedule of CLD2 and DIS-A workshops is as follows
 | zebra stripes | are neat      |    $1 |
 -->
 
-<!--
 ## Keynote speaker
 
+<div class="picture">
+  <img src="ksieniewicz.jpg">
+  <div>
+    <h3>Paweł Ksieniewicz</h3>
+    <h5>Chosen Challenges of Imbalanced Data Stream Classification</h5>
+    <i>Paweł Ksieniewicz</i> is an assistant professor at Wroclaw University of Science and Technology, where he achieved M.Sc. degree in 2013 and Ph.D. degree in 2017. His research focuses on classification of imbalanced data streams, multidimensional data representation and image processing. Most of his papers concerns the hyperspectral imaging in context of data segmentation and visualization.
+  </div>
+</div>
+<div class='cleaner'></div>
+
+<!--
 <div class="picture">
   <img src="acano.jpg">
   <div>
