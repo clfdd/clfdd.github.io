@@ -4,3 +4,5 @@ gem 'jekyll-watch'
 gem 'kramdown'
 gem 'redcarpet'
 gem 'rouge'
+
+gem "webrick", "~> 1.7"

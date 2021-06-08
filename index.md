@@ -145,6 +145,15 @@ The meeting schedule of CLD2 and DIS-A workshops is as follows
 <div class='cleaner'></div>
 {% endfor %}
 
+<ul>
+{% assign sorted = (site.data.ooc | sort: 'last') %}
+{% for person in sorted %}
+<li>
+    {{ person.first }} {{person.last}}, <em>{{person.university}}, {{person.country}}</em>
+</li>
+{% endfor %}
+</ul>
+
 <br><br>
 
 <center>
